@@ -1,0 +1,11 @@
+.list{
+    height: 30vh;
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    align-items: left;
+    display:grid;
+    grid-template-columns: auto auto auto auto auto auto auto ;
+    padding: auto;
+    grid-gap: 100px;
+}
